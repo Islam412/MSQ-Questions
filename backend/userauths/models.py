@@ -15,7 +15,6 @@ import uuid
 
 # Create your models here.
 
-
 class User(AbstractUser):
     first_name = models.CharField(_('Frist Name'),max_length=255, null=True, blank=True)
     last_name = models.CharField(_('Last Name'),max_length=255, null=True, blank=True)
