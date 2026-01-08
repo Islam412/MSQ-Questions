@@ -18,6 +18,7 @@ dbus-python==1.4.0
 dbus_next==0.2.3
 distro==1.9.0
 Django==6.0
+django-jazzmin==3.0.1
 dnf==4.24.0
 fedora-third-party==0.10
 file-magic==0.4.0
